@@ -11,8 +11,8 @@ Ce fichier va mettre les liens GitLab vers les projets utilisées pour les TP
 
 ## TP3
 
-[Dépôt de test](https://moule.informatique.univ-paris-diderot.fr/sarambillete/tp-tests-unitaires-et-mocking)
+[Dépôt de test](https://moule.informatique.univ-paris-diderot.fr/sarambillete/tp-projets-unitaires-et-mocking)
 
 ## Projet
 
-[Dépôt de test](https://moule.informatique.univ-paris-diderot.fr/cail/ver-de-terre)
+[Dépôt de projet](https://moule.informatique.univ-paris-diderot.fr/cail/ver-de-terre)
